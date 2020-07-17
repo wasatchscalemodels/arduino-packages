@@ -17,19 +17,12 @@
       "help": {
         "online": "https://www.wasatchscalemodels.com/"
       },
-      "url": "https://www.mattairtech.com/software/arduino/MattairTech_SAM_DLC_Core_for_Arduino-1.6.17.tar.bz2",
-      "archiveFileName": "MattairTech_SAM_DLC_Core_for_Arduino-1.6.17.tar.bz2",
-      "checksum": "SHA-256:eba3b9263a7eba2f2e83a3f6c919e87cc7d4ce08fd45dcf772a10e9fa605f57f",
-      "size": "360589",
+      "url": "https://github.com/wasatchscalemodels/arduino-packages/blob/master/WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
+      "archiveFileName": "WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
+      "checksum": "SHA-256:f0e343a5a9aeb28f891a64af8931e3613fdbd5777724923267bcbc288a3e26d8",
+      "size": "313355",
       "boards": [
-      {"name": "Xeno"},
-      {"name": "MT-D21E"},
-      {"name": "MT-D21E_revB"},
-      {"name": "MT-D11"},
-      {"name": "Generic_D11C14A"},
-      {"name": "Generic_D11D14AS"},
-      {"name": "arduino_zero"},
-      {"name": "arduino_mzero"}
+      {"name": "FireBox_MK1S"}
       ],
       "toolsDependencies": [
       {
