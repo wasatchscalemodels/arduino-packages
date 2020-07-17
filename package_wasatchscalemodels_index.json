@@ -17,7 +17,7 @@
       "help": {
         "online": "https://www.wasatchscalemodels.com/"
       },
-      "url": "https://github.com/wasatchscalemodels/arduino-packages/blob/master/WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
+      "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
       "archiveFileName": "WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
       "checksum": "SHA-256:f0e343a5a9aeb28f891a64af8931e3613fdbd5777724923267bcbc288a3e26d8",
       "size": "313355",
