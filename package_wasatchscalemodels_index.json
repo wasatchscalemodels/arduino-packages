@@ -11,7 +11,7 @@
 		"platforms": [
     {
       "name": "Wasatch Scale Models SAM C Core for Arduino",
-      "architecture": "samd",
+      "architecture": "samc",
       "version": "1.0.0",
       "category": "Contributed",
       "help": {
