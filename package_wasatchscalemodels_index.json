@@ -83,6 +83,13 @@
 				"archiveFileName": "bossac-1.7.0-mattairtech-3-i686-linux-gnu.tar.gz",
 				"checksum": "SHA-256:edd3bc6fd80641563dc6ca337d695fca25c2d43242172ea0418b678d4dbe0628",
 				"size": "34628"
+      },
+      {
+        "host": "x86_64-apple-darwin",
+        "url": "",
+        "archiveFileName": "",
+        "checksum": "SHA-256:",
+        "size": ""
       }
 			]
     },
@@ -92,28 +99,28 @@
       "systems": [
       {
         "host": "i686-mingw32",
-        "url": "https://www.mattairtech.com/software/arduino/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+        "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/CMSIS-Atmel/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
         "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
         "checksum": "SHA-256:d10ca2a14c8db5757d2b1b4c1e52473ae5337f0762c6617a6074373f2f44540d",
         "size": "2008479"
       },
       {
         "host": "x86_64-pc-linux-gnu",
-        "url": "https://www.mattairtech.com/software/arduino/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+        "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/CMSIS-Atmel/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
         "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
         "checksum": "SHA-256:d10ca2a14c8db5757d2b1b4c1e52473ae5337f0762c6617a6074373f2f44540d",
         "size": "2008479"
       },
       {
         "host": "i686-pc-linux-gnu",
-        "url": "https://www.mattairtech.com/software/arduino/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+        "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/CMSIS-Atmel/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
         "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
         "checksum": "SHA-256:d10ca2a14c8db5757d2b1b4c1e52473ae5337f0762c6617a6074373f2f44540d",
         "size": "2008479"
       },
       {
         "host": "x86_64-apple-darwin",
-        "url": "https://www.mattairtech.com/software/arduino/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
+        "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/CMSIS-Atmel/CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
         "archiveFileName": "CMSIS-Atmel-1.0.0-mattairtech-2.tar.gz",
         "checksum": "SHA-256:d10ca2a14c8db5757d2b1b4c1e52473ae5337f0762c6617a6074373f2f44540d",
         "size": "2008479"
