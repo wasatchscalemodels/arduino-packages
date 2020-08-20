@@ -19,10 +19,11 @@
       },
       "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
       "archiveFileName": "WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
-      "checksum": "SHA-256:8230df8b8f75235f468bf1f1f1f6d5a73a2e594cb913a4552c9b0525e3e342aa",
-      "size": "1369964",
+      "checksum": "SHA-256:54d6283c76ec344cfe788824eccf18dd13477371ba879be0c076ed82b2a97769",
+      "size": "217380",
       "boards": [
-      {"name": "FireBox_MK1S"}
+        {"name": "FireBox_MK1S"},
+        {"name": "FireBox_MK1T"}
       ],
       "toolsDependencies": [
       {
@@ -86,10 +87,10 @@
       },
       {
         "host": "x86_64-apple-darwin",
-        "url": "",
-        "archiveFileName": "",
-        "checksum": "SHA-256:",
-        "size": ""
+        "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/bossac/bossac-1.7.0-mattairtech-3-x86_64-apple-darwin.tar.gz",
+        "archiveFileName": "bossac-1.7.0-mattairtech-3-x86_64-apple-darwin.tar.gz",
+        "checksum": "SHA-256:da4d4b04582f92d09e3d48a1ec4d2473b6cd01bba992c0f1f2cd7ee1008f08f8",
+        "size": "88845"
       }
 			]
     },
