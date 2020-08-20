@@ -12,15 +12,15 @@
     {
       "name": "Wasatch Scale Models SAM C Core for Arduino",
       "architecture": "samc",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "category": "Contributed",
       "help": {
         "online": "https://www.wasatchscalemodels.com/"
       },
       "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
       "archiveFileName": "WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
-      "checksum": "SHA-256:02aabde099fbb3c908973aa261dc9e325a04e3b03e04178fe44cef73d6c62624",
-      "size": "761155",
+      "checksum": "SHA-256:8045e40ba2a25875d38b73ce174dbaf95ea2bba27af257b39f64a5895b15c4fe",
+      "size": "761579",
       "boards": [
         {"name": "FireBox_MK1S"},
         {"name": "FireBox_MK1T"}
