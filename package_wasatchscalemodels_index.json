@@ -19,8 +19,8 @@
       },
       "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
       "archiveFileName": "WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
-      "checksum": "SHA-256:f702d80e69c59029f7a677f7dfb51be487d02ecbb286cd0d2b46c0da28e59522",
-      "size": "784439",
+      "checksum": "SHA-256:08e91f2f8c80108b36c61f6f5774cb228869a4802e843ea1c680c021f8bd2e78",
+      "size": "785939",
       "boards": [
         {"name": "FireBox_MK1S"},
         {"name": "FireBox_MK1T"}
