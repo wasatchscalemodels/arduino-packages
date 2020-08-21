@@ -75,8 +75,8 @@
 				"host": "x86_64-pc-linux-gnu",
 				"url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/bossac/bossac-1.9.1-wasatchscalemodels-1-x86_64-linux-gnu.tar.gz",
 				"archiveFileName": "bossac-1.9.1-wasatchscalemodels-1-x86_64-linux-gnu.tar.gz",
-				"checksum": "SHA-256:b357e6e3c636e9db8b57eacf6c858e63da6d38687684378d8e436305d0b7aa1c",
-				"size": "45403"
+				"checksum": "SHA-256:7f2050767130db634c54193baf6c17b703f3dac2a7cb5e1c346a3308cebe83b5",
+				"size": "45477"
 			},
 			{
 				"host": "i686-pc-linux-gnu",
