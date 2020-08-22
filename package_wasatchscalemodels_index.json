@@ -19,7 +19,7 @@
       },
       "url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
       "archiveFileName": "WSM_SAM_C_Core_for_Arduino-1.0.0.tar.bz2",
-      "checksum": "SHA-256:50D7FFE3EABDDF49B27D0B24B20419F3C3F9E09192FF08987F0F05539BAE4A84",
+      "checksum": "SHA-256:86C96DFED434966FB2C7D2EBB013A1CB51ADAEE4104FF551C44EE4C4D4967BF3",
       "size": "799187",
       "boards": [
         {"name": "FireBox_MK1S"},
@@ -68,8 +68,8 @@
 				"host": "i686-mingw32",
 				"url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/bossac/bossac-1.9.1-wasatchscalemodels-1-mingw32.zip",
 				"archiveFileName": "bossac-1.9.1-wasatchscalemodels-1-mingw32.zip",
-				"checksum": "SHA-256:1DD653E7CCE86BA2D654D48E2C7A32797ED29932D3CA32042BB842CC8134223E",
-				"size": "1340820"
+				"checksum": "SHA-256:D81CDA89DD6E1402BA6232CCF14A2421A55E2129D4DB37285274A8FF61E79345",
+				"size": "1340904"
 			},
 			{
 				"host": "x86_64-pc-linux-gnu",
