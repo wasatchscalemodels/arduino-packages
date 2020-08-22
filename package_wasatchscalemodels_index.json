@@ -66,10 +66,10 @@
 			"systems": [
 			{
 				"host": "i686-mingw32",
-				"url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/bossac/bossac-1.7.0-mattairtech-3-mingw32.tar.gz",
-				"archiveFileName": "bossac-1.7.0-mattairtech-3-mingw32.tar.gz",
-				"checksum": "SHA-256:ce6ce590c612dc8b18ba52df3903ba3d43416c92ef54538881cc07fdd2ef1f04",
-				"size": "325719"
+				"url": "https://raw.githubusercontent.com/wasatchscalemodels/arduino-packages/master/bossac/bossac-1.9.1-wasatchscalemodels-1-mingw32.zip",
+				"archiveFileName": "bossac-1.9.1-wasatchscalemodels-1-mingw32.zip",
+				"checksum": "SHA-256:1DD653E7CCE86BA2D654D48E2C7A32797ED29932D3CA32042BB842CC8134223E",
+				"size": "1340820"
 			},
 			{
 				"host": "x86_64-pc-linux-gnu",
